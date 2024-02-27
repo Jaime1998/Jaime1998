@@ -3,6 +3,6 @@
 
 - 👀 I’m interested in model-checking, algorithms and software development
 - 🌱 I’m currently learning Spring Boot, and NoSQL databases
-- 📫 How to reach me **jaime.cuartas@correounivalle.edu.co**
+- 📫 How to reach me **jaime.cuartasgranada@monash.edu**
 - <a href="https://www.linkedin.com/in/jaime-cuartas-granada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ldavidrh" height="30" width="40" /></a>
 
