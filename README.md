@@ -1,8 +1,41 @@
-<h1 align="center">Hi there, I am Jaime Cuartas Granada - @Jaime1998</h1>
-<h3 align="center">A computer engineer, passionate about the design and analysis of algorithms, the correctness and the application in software development</h3>
+# Welcome to My GitHub Profile! 👋
 
-- 👀 I’m interested in model-checking, algorithms and software development
-- 🌱 I’m currently learning Spring Boot, and NoSQL databases
-- 📫 How to reach me **jaime.cuartasgranada@monash.edu**
-- <a href="https://www.linkedin.com/in/jaime-cuartas-granada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ldavidrh" height="30" width="40" /></a>
+## About Me
 
+Hello! I'm Jaime, a passionate systems engineer with a knack for creating innovative solutions and exploring new technologies. I specialise in formal methods, and I'm always eager to learn more and take on new challenges.
+
+- 🌱 I’m currently learning XAI.
+- 💬 Ask me about Machine Learning, Formal Verification, and Algorithms.
+- 📫 How to reach me: jaime.cuartas1228@gmail.com.
+
+## Skills
+
+### Languages
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+### Frameworks & Libraries
+
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+### Tools
+
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## Get in Touch
+
+- LinkedIn: [Jaime Cuartas Granada](https://www.linkedin.com/in/jaime-cuartas-granada/)
+- Email: [jaime.cuartasgranada@monash.edu](mailto:jaime.cuartasgranada@monash.edu)
+
+Feel free to reach out if you have any questions or just want to connect!
+
+---
+
+*Thank you for visiting my GitHub profile! Have a great day!*
